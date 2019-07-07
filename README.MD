@@ -6,3 +6,4 @@
 - composer create-project symfony/skeleton my-project
 - composer require --dev symfony/web-server-bundle
 - composer require annotations
+- symfony/profiler-pack
