@@ -6,4 +6,5 @@
 - composer create-project symfony/skeleton my-project
 - composer require --dev symfony/web-server-bundle
 - composer require annotations
-- symfony/profiler-pack
+- composer require symfony/profiler-pack
+- composer require "twig/twig:^2.0"
