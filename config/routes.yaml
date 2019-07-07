@@ -1,3 +1,8 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+# Route with routes.yaml but better to use annotation
+#app_lucky_number:
+#    path: /lucky/number
+#    controller: App\Controller\LuckyController::number
